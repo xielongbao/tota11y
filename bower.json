@@ -1,6 +1,6 @@
 {
   "name": "tota11y",
-  "version": "0.1.2",
+  "version": "0.1.2"，
   "description": "An accessibility visualization toolkit",
   "main": "build/tota11y.js",
   "authors": [
